@@ -1,0 +1,5 @@
+#vim config
+1. in $HOME creat .vim
+2.in $HOME  creat  .vimrc(git clone)
+3.mv  peter-vim/vimrc  to  .vim   ( git clone git://github.com/happypeter/peter-vim.git
+4.in creat-self .vimrc ,write only  "runtime vimrc" 
